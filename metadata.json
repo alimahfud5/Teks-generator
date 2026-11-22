@@ -1,0 +1,6 @@
+{
+  "name": "WarnaWA — Generator Teks Warna & Gaya WhatsApp",
+  "description": "Aplikasi pembuat teks biru, tipografi Unicode, format pesan, dan stiker teks berwarna untuk WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
